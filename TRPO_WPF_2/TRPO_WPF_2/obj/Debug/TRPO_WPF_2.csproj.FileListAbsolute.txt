@@ -1,0 +1,15 @@
+C:\Users\Aranc\source\repos\TRPO_WPF_2\TRPO_WPF_2\bin\Debug\TRPO_WPF_2.exe.config
+C:\Users\Aranc\source\repos\TRPO_WPF_2\TRPO_WPF_2\bin\Debug\TRPO_WPF_2.exe
+C:\Users\Aranc\source\repos\TRPO_WPF_2\TRPO_WPF_2\bin\Debug\TRPO_WPF_2.pdb
+C:\Users\Aranc\source\repos\TRPO_WPF_2\TRPO_WPF_2\obj\Debug\TRPO_WPF_2.csproj.AssemblyReference.cache
+C:\Users\Aranc\source\repos\TRPO_WPF_2\TRPO_WPF_2\obj\Debug\MainWindow.g.cs
+C:\Users\Aranc\source\repos\TRPO_WPF_2\TRPO_WPF_2\obj\Debug\App.g.cs
+C:\Users\Aranc\source\repos\TRPO_WPF_2\TRPO_WPF_2\obj\Debug\TRPO_WPF_2_MarkupCompile.cache
+C:\Users\Aranc\source\repos\TRPO_WPF_2\TRPO_WPF_2\obj\Debug\TRPO_WPF_2_MarkupCompile.lref
+C:\Users\Aranc\source\repos\TRPO_WPF_2\TRPO_WPF_2\obj\Debug\MainWindow.baml
+C:\Users\Aranc\source\repos\TRPO_WPF_2\TRPO_WPF_2\obj\Debug\TRPO_WPF_2.g.resources
+C:\Users\Aranc\source\repos\TRPO_WPF_2\TRPO_WPF_2\obj\Debug\TRPO_WPF_2.Properties.Resources.resources
+C:\Users\Aranc\source\repos\TRPO_WPF_2\TRPO_WPF_2\obj\Debug\TRPO_WPF_2.csproj.GenerateResource.cache
+C:\Users\Aranc\source\repos\TRPO_WPF_2\TRPO_WPF_2\obj\Debug\TRPO_WPF_2.csproj.CoreCompileInputs.cache
+C:\Users\Aranc\source\repos\TRPO_WPF_2\TRPO_WPF_2\obj\Debug\TRPO_WPF_2.exe
+C:\Users\Aranc\source\repos\TRPO_WPF_2\TRPO_WPF_2\obj\Debug\TRPO_WPF_2.pdb

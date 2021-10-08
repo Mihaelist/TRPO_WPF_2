@@ -1,0 +1,15 @@
+﻿<Window x:Class="TRPO_WPF_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TRPO_WPF_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="400">
+    <Grid>
+        <Button x:Name="b1" Content="Рассчитать" HorizontalAlignment="Left" Margin="279,10,0,0" VerticalAlignment="Top" Width="103" Height="23" Click="b1_Click"/>
+        <TextBox x:Name="vvod" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="238" Background="#FFFAFF8F"/>
+        <TextBlock x:Name="TB1" HorizontalAlignment="Left" Margin="10,38,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="221" Width="372" Background="#FFFAFF8F"/>
+
+    </Grid>
+</Window>
